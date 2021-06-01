@@ -1,0 +1,12 @@
+{
+    "name": "hugo/teste",
+    "authors": [
+        {
+            "name": "pablito.htm",
+            "email": "pablito.htm@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0"
+    }
+}
